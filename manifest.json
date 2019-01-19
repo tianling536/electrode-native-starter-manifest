@@ -1,6 +1,6 @@
 [
   {
-    "platformVersion": "0.0.1",
+    "platformVersion": "0.28.x",
     "targetNativeDependencies": [
       "react-native-fast-image@5.1.2"
     ],
