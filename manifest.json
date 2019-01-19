@@ -2,7 +2,7 @@
   {
     "platformVersion": "0.28.x",
     "targetNativeDependencies": [
-      "react-native-fast-image@5.1.1"
+      "react-native-fast-image@5.1.2"
     ],
     "targetJsDependencies": [
       "react-native-router-flux@4.0.6"
