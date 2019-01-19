@@ -2,7 +2,8 @@
     "android": {
       "moduleName": "",
       "dependencies": [
-        "com.github.bumptech.glide:glide:4.8.0"
+        "com.github.bumptech.glide:glide:4.8.0",
+        "com.github.bumptech.glide:okhttp3-integration:+"
       ]
     }
   }
