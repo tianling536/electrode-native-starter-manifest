@@ -1,0 +1,8 @@
+{
+    "android": {
+      "moduleName": "app",
+      "dependencies": [
+        "com.github.bumptech.glide:glide:4.8.0"
+      ]
+    }
+  }
